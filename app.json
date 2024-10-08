@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "projeto666",
+    "slug": "projeto666",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gabadinha.projeto666"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3dff724f-1015-4c72-8929-e41bcf78db5d"
+      }
+    },
+    "scheme": "projeto666",
+    "owner": "gabadinha"
+  }
+}
