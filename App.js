@@ -27,11 +27,11 @@ export default function App() {
   const [authData, setAuthData] = useState();
   const [request, response, prompAsync] = Google.useAuthRequest({
     androidClientId:
-      "349025739013-73dpcn69vmr44vj364hk4kiqjrp1l467.apps.googleusercontent.com",
+      "",
     iosClientId:
-      "349025739013-up9u83rajuuo4dp134h0q67hsholo390.apps.googleusercontent.com",
+      "",
     webClientId: 
-      '349025739013-6nr4cv4r3f2c7slri8faecjasa809jk4.apps.googleusercontent.com',
+      '',
    
   });
 
