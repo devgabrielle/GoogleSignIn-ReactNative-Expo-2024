@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "projeto666",
-    "slug": "projeto666",
+    "name": "auth",
+    "slug": "googleauth",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,7 +26,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "3dff724f-1015-4c72-8929-e41bcf78db5d"
+        "projectId": ""
       }
     },
     "scheme": "projeto666",
